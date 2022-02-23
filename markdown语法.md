@@ -82,3 +82,29 @@ You can also use words, to fit your writing style more closely[^note].
     
 ### 内容隐藏在注释中
 <!-- This content will not appear in the rendered Markdown -->
+
+### 表格
+ | First Header | Second Header |
+ | ------------ | ------------- |
+ | Content Cell | Content Cell  |
+ | Content Cell | Content Cell  |
+ 
+ | Command | Description |
+ | --- | --- |
+ | git status | List all new or modified files |
+ | git diff | Show file differences that haven't been storged |
+ 
+ | Command | Description |
+ | --- | --- |
+ | `git status` | List all *new or modified* files |
+ | `git diff` | Show file differences that **haven't been** storged |
+ 
+ | Left-aligned | Center-aligned | Right-aligned |
+ | :---         |      :---:     |          ---: |
+ | git status   | git status     | git status    |
+ | git diff     | git diff       | git diff      |
+ 
+ | Name     | Character |
+ | ---      | ---       |
+ | Backtick | \`        |
+ | Pipe     | \|        |
