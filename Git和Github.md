@@ -23,3 +23,4 @@
 - commit -> Save your files in Git
 - push -> Upload Git commits to a remote repo, like Github
 - pull -> Download changes from remote repo to your local machine, the opposite of push
+![image](https://user-images.githubusercontent.com/41363767/155286129-0de0ab05-7f52-4d1e-963e-5d1ee178328b.png)
