@@ -7,3 +7,6 @@ _This text is italicized_
 ~~This was mistaken text~~
 **This text is _extremely_ important**
 ***All this text is important***
+
+Text that is not a quote
+> Text that is a quote
