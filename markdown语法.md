@@ -111,11 +111,13 @@ You can also use words, to fit your writing style more closely[^note].
  
 ### 创建collapsed部分，可收起可展开
 <details><summary>CLICK ME</summary>
-   <p>
-      #### We can hide anything, even code!
-      ```
-      ruby
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
       puts "Hello World"
-      ```
-   </p>
-   </details>
+    ```
+
+</p>
+</details>
