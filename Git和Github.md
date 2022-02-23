@@ -23,4 +23,9 @@
 - commit -> Save your files in Git
 - push -> Upload Git commits to a remote repo, like Github
 - pull -> Download changes from remote repo to your local machine, the opposite of push
-![image](https://user-images.githubusercontent.com/41363767/155286129-0de0ab05-7f52-4d1e-963e-5d1ee178328b.png)
+
+### Git Workflow
+![image](https://user-images.githubusercontent.com/41363767/155286359-17ff6896-d826-4f15-9a53-f497f71ebfa8.png)
+
+### Git分支
+![image](https://user-images.githubusercontent.com/41363767/155286412-fc7ee11d-1002-451e-91cd-cc18c0dd9309.png)
