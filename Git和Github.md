@@ -23,9 +23,17 @@
 - commit -> Save your files in Git
 - push -> Upload Git commits to a remote repo, like Github
 - pull -> Download changes from remote repo to your local machine, the opposite of push
+- diff -> shows all of the lines that have been changed
+- checkout -> 切换分支
+- merge -> 合并分支
+- status -> 查看文件是否被track
+- reset -> 取消更改
 
 ### Git Workflow
 ![image](https://user-images.githubusercontent.com/41363767/155286359-17ff6896-d826-4f15-9a53-f497f71ebfa8.png)
 
 ### Git分支
-![image](https://user-images.githubusercontent.com/41363767/155286412-fc7ee11d-1002-451e-91cd-cc18c0dd9309.png)
+![image](https://user-images.githubusercontent.com/41363767/155286976-cdf1ffce-5c7d-4243-a3f2-bce072daf44d.png)
+
+### Git教程视频链接
+[Git link](https://www.youtube.com/watch?v=RGOj5yH7evk)
