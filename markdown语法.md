@@ -33,7 +33,7 @@ Links ctrl + K
 
 This site was built using [Github Pages](https://pages.github.com/)
 
-[Readme for this project](README.md)_
+[Readme for this project](README.md)
 
 ### 图片
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
@@ -54,3 +54,8 @@ This site was built using [Github Pages](https://pages.github.com/)
 100. First list item
      - First nested list item
        - Second nested list item
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] \(Optional) Open a followup issue
