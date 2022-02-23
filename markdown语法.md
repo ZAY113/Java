@@ -38,6 +38,6 @@ This site was built using [Github Pages](https://pages.github.com/)
 ### 图片
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-light![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+light![GitHub Light](https://myoctocat.com/assets/images/base-octocat.svg#gh-dark-mode-only)
 
-dark![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+dark![GitHub Dark](https://myoctocat.com/assets/images/base-octocat.svg#gh-light-mode-only)
