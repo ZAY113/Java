@@ -18,6 +18,7 @@ Text that is not a quote
 
 ### 代码与命令
 code ctrl + E
+
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 Some basic Git commands are:
@@ -29,8 +30,9 @@ git commit
 
 ### 链接
 Links ctrl + K
+
 This site was built using [Github Pages](https://pages.github.com/)
 
-[Readme for this project](readme.md)_
+[Readme for this project](README.md)_
 
 
