@@ -38,6 +38,11 @@ This site was built using [Github Pages](https://pages.github.com/)
 ### 图片
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-light![GitHub Light](https://myoctocat.com/assets/images/base-octocat.svg#gh-dark-mode-only)
+### 列表
+- George Washington
+- John Adams
+- Thomas Jefferson
 
-dark![GitHub Dark](https://myoctocat.com/assets/images/base-octocat.svg#gh-light-mode-only)
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
